@@ -69,3 +69,76 @@ C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\obj\Deb
 C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\obj\Debug\ASP Web Proto.pdb
 C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\bin\Media\EMP.Ico
 C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\bin\Media\Emp.PNG
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Media\EMP.Ico
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Media\Emp.PNG
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\ASP Web Proto.dll.config
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\ASP Web Proto.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\ASP Web Proto.pdb
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Antlr3.Runtime.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\EntityFramework.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\EntityFramework.SqlServer.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Newtonsoft.Json.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Owin.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Helpers.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Mvc.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Optimization.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Razor.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.WebPages.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.WebPages.Razor.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\WebGrease.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Helpers.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Mvc.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Optimization.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.Razor.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.WebPages.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\System.Web.WebPages.Razor.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Antlr3.Runtime.pdb
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Newtonsoft.Json.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\EntityFramework.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\EntityFramework.SqlServer.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\obj\Debug\ASP Web Proto.csprojAssemblyReference.cache
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\obj\Debug\ASP Web Proto.csproj.CoreCompileInputs.cache
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\obj\Debug\ASP Web Proto.csproj.CopyComplete
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\obj\Debug\ASP Web Proto.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\obj\Debug\ASP Web Proto.pdb
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\csc.exe
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\vbc.exe
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\VBCSCompiler.exe
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\VBCSCompiler.exe.config
