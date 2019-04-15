@@ -69,8 +69,6 @@ C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\obj\Deb
 C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\obj\Debug\ASP Web Proto.pdb
 C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\bin\Media\EMP.Ico
 C:\Users\u367251\Source\Repos\ClassLibraries\ASP Web Proto\ASP Web Proto\bin\Media\Emp.PNG
-C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Media\EMP.Ico
-C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Media\Emp.PNG
 C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\ASP Web Proto.dll.config
 C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\ASP Web Proto.dll
 C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\ASP Web Proto.pdb
@@ -142,3 +140,5 @@ C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showc
 C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\vbc.exe
 C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\VBCSCompiler.exe
 C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Media\SiteIdentity\EMP.Ico
+C:\Users\ashetyn.a.white\Source\Repos\AshetynW\ASP.Net-MVC-Emporium-Studio-Showcase\ASP Web Proto\bin\Media\SiteIdentity\Emp.PNG

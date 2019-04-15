@@ -189,6 +189,27 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\AdventurerFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\BarbarianFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\BardFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\ClericFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\DruidFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\FighterFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Female\RogueFemale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\AdventurerMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\BarbarianMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\BardMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\ClericMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\DruidMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\FighterMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassChar\Male\RogueMale.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Adventurer.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Barbarian.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Bard.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Cleric.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Druid.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Fighter.jpg" />
+    <Content Include="Media\CharacterCreatorFiles\ClassPhotos\ClassIcons\Rogue.jpg" />
     <Content Include="Media\SiteIdentity\EMP.Ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -248,7 +269,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Media\CharacterCreatorFiles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
