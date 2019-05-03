@@ -34,6 +34,7 @@ namespace ASP_Web_Proto.cs_Classes
     }
     public class Rogue
     {
+
     }
     public class Barbarian
     {
