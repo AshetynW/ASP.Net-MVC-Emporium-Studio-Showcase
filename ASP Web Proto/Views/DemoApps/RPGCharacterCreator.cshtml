@@ -1,6 +1,7 @@
 ﻿
 @{
     ViewBag.Title = "RPG Character Creator";
+    
 }
 
 <h2>RPG Character Creator</h2>
@@ -12,18 +13,16 @@
                 <p>Character Name: </p>
             </div>
             <div>
-                <input type="text" />
+                <input id="nameTxtBox" type="text" />
             </div>
         </div>
         <div>
             <p></p>
         </div>
     </div>
-
     <div>
         <p></p>
     </div>
-
     <div class="col-md-2">
         <table>
             <tr>
@@ -87,13 +86,43 @@
     <div class="col-md-3">
             <div><img src="~/Media/CharacterCreatorFiles/ClassPhotos/ClassChar/Male/AdventurerMale.jpg" /></div>
         </div>
-    </div>
+</div>
 
 <div class="container">
     <div id="CharacterBio">
-        <div class="row">
-            <h3>Adventurer</h3>
-            <p>This is the bio</p>
-        </div>
+        <h3>Adventurer</h3>
+        <p id="characterBioText">PLACE HOLDER TEXT</p>
     </div>
 </div>
+<div class="row" style="padding-left:10px;padding-bottom:10px">
+    <p>
+        Generate New Character
+    </p>
+    <p class="btn btn-primary" style="background-color:white; color:black">
+        <!--//Html.ActionLink("Generate", "ListPeople", "CharacterCreator")-->
+        <input type="button" value="Generate" onclick="SaveCharacter()" />
+    </p>
+    </div>
+
+    @section Scripts {
+        <script type="text/javascript">
+            function SaveCharacter() {
+                var characterName = $("#nameTxtBox").val();
+                alert(characterName);
+                $("#characterBioText").text(characterName);
+
+                $.ajax({
+                    type: "POST",
+                    url: "demoApps/characterCreator",
+                    data: JSON.stringify({ Name: characterName }),
+                    contentType: "application/json",
+
+                    success: function(result) {
+                        $("#nameTxtBox").val(characterName) //take whatever element id you want to use and push the value to it
+                    }
+                })
+
+
+            }
+        </script>
+    }

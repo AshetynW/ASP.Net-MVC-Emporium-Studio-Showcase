@@ -18,5 +18,9 @@ namespace ASP_Web_Proto.Controllers
             ViewBag.Message = "RPG Character Creator";
             return View();
         }
+        public void Raz()
+        {
+
+        }
     }
 }

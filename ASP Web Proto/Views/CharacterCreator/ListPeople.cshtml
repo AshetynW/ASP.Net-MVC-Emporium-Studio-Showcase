@@ -1,0 +1,105 @@
+﻿@model IEnumerable<ASP_Web_Proto.Models.RPGCharacter>
+
+@{
+    ViewBag.Title = "Created Characters";
+}
+
+<h2>ListPeople</h2>
+<!--USE THIS SECTION TO STORE ALL THE PREVIOUSLY CREATED CHARACTERS AND LIST THEM-->
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Class)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HighestAttr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SecondHighestAttr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Strength)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Constitution)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dexterity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Intelligence)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Wisdom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Charisma)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Luck)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AvailablePoints)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HighestAttr)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SecondHighestAttr)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Strength)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Constitution)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dexterity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Intelligence)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Wisdom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Charisma)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Luck)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AvailablePoints)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
